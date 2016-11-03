@@ -1,0 +1,10 @@
+Package: cummulative.function
+Title: To provide cummulative.function for max and min for date type
+Version: 0.0.0.9000
+Authors@R: person("Arun", "Kundgol", email = "a.s.kundgol@outlook.com", role = c("aut", "cre"))
+Description: The package provides an alternate to implement cummulative maximum and cummulative minimum for date based vectors
+Depends: R (>= 3.3.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
